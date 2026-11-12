@@ -14,6 +14,8 @@ Tell checks token launches on Robinhood Chain — contract, holders, deployer, w
 
 **[tell](https://github.com/Tell-Markets/tell)** — the engine: checks, scoring, HTTP API, MCP server, x402 pay-per-check, the on-chain proof ledger and the Telegram bot.
 
+**[hermes-tell](https://github.com/Tell-Markets/hermes-tell)** — Tell for [Hermes Agent](https://github.com/NousResearch/hermes-agent): `hermes plugins install Tell-Markets/hermes-tell`
+
 - 🔎 &nbsp;Paste a CA, get a 0–100 score and the red flags in ~10 seconds
 - 🤖 &nbsp;Built for agents: one MCP call or one HTTP request, paid per check in USDG over x402
 - ⛓️ &nbsp;Every verdict is hashed and anchored on-chain each hour, so no score can be edited later
